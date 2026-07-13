@@ -72,6 +72,7 @@ section of the README on how to build it. Note that some platforms might have it
 
 * Make sure the Xcode command line tools are installed. Then, use either [MacPorts](https://www.macports.org/)
   or [Homebrew](https://brew.sh/) to install `automake`, `autoconf`, `libtool`, etc.
+  
 
   Using MacPorts:
   ```shell
